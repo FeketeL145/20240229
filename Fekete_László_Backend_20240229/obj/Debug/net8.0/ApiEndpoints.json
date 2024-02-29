@@ -1,0 +1,48 @@
+[
+  {
+    "ContainingType": "Fekete_L\u00E1szl\u00F3_Backend_20240229.Controllers.JegyekController",
+    "Method": "GetFeladat11",
+    "RelativePath": "api/Jegyek/feladat12",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Fekete_L\u00E1szl\u00F3_Backend_20240229.Controllers.TanarController",
+    "Method": "GetFeladat11",
+    "RelativePath": "api/Tanar/feladat11",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Fekete_L\u00E1szl\u00F3_Backend_20240229.Controllers.TantargyController",
+    "Method": "GetFeladat10",
+    "RelativePath": "api/Tantargy/feladat10",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tantargyNev",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Fekete_L\u00E1szl\u00F3_Backend_20240229.Controllers.TantargyController",
+    "Method": "GetFeladat9",
+    "RelativePath": "api/Tantargy/feladat9",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

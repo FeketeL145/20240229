@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Fekete_László_Backend_20240229.props" />
+</Project>

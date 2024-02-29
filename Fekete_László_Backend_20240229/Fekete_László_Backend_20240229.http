@@ -1,0 +1,6 @@
+@Fekete_László_Backend_20240229_HostAddress = http://localhost:5095
+
+GET {{Fekete_László_Backend_20240229_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
